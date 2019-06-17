@@ -1,4 +1,14 @@
-# utilisateur
+
+Interface utilisateur
+
+- liste des tickets
+- création
+- modification
+- suppression
+- total par mois
+* contrainte : 1 seul ticket par jour
+
+
 Packages:-
 1. utilisateur
 In this package, a class name App is constructed with a console for an Utilisateur.
